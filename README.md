@@ -1,8 +1,8 @@
 # fg_site
 
-Использовались:
+Использовались: </br>
 https://bootstrap-4.ru/ </br>
-https://active-vision.ru/icon/box-shadow/
-https://www.figma.com/
-https://github.com/
-https://fonts.google.com/
+https://active-vision.ru/icon/box-shadow/ </br>
+https://www.figma.com/ </br>
+https://github.com/ </br>
+https://fonts.google.com/ </br>
