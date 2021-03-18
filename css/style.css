@@ -6,6 +6,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     font-style: normal;
     color: #0B132A;
+    margin-top: 15px;
 }
 
 p {
@@ -21,7 +22,8 @@ a {
 }
 
 a:hover {
-    color: #4F5665;
+    color: #30343d;
+    font-weight: bold;
 }
 
 footer {
@@ -52,6 +54,30 @@ nav .main-logo{
     width: 150px;
 }
 
-.border1 {
-    border: 2px solid #F53855;
+.border-btn:hover {
+    background: #F53838;
+    color:white;
 }
+
+button:hover {
+    color: gray;
+}
+
+.cube-btn {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+    width: 250px;
+    height: 60px;
+    background: #F53838;
+    border-radius: 10px;
+    color:white;
+    box-shadow: 0px 37px 40px -14px #F5383850;
+}
+
+.cube-btn:hover {
+    color: #ff0000;
+    background-color: white;
+    border: #F53855 1px solid ;
+}
+
