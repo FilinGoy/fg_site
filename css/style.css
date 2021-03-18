@@ -32,3 +32,26 @@ copyright {
     color: #AFB5C0;
     text-align: center;
 }
+
+nav .main-logo{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.border-btn {
+    border: #F53855 1px solid ;
+    color:#F53855;
+    box-sizing: border-box;
+    border-radius: 50px;
+    font-weight: 700;
+    width: 150px;
+}
+
+.border1 {
+    border: 2px solid #F53855;
+}
