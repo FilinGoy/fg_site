@@ -19,11 +19,12 @@ p {
 
 a {
     color: #DDE0E4;
+    font-weight: bold;
 }
 
 a:hover {
     color: #30343d;
-    font-weight: bold;
+    text-shadow: 5px #F53855;
 }
 
 footer {
@@ -81,3 +82,10 @@ button:hover {
     border: #F53855 1px solid ;
 }
 
+li.full {
+    list-style-image: url("../img/Group 1120.svg");
+}
+
+.gradient {
+    background: linear-gradient(180deg, #F8F8F8 -45.04%, rgba(248, 248, 248, 0) 88.56%);
+}
